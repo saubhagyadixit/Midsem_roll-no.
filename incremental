@@ -5,7 +5,8 @@ main() {
 #incrementation
    int a = 21;
    int c ;
-   c = a++;   
+   c = a++; 
+   #value of will increase
    cout << "Line 1 - Value of a++ is :" << c << endl ;
    cout << "Line 2 - Value of a is :" << a << endl ;
    c = ++a;  
